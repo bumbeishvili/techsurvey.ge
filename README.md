@@ -1,4 +1,3 @@
-# TechSurvey.ge
 
 Current survey:  
 [latest.techsurvey.ge](https://latest.techsurvey.ge)
